@@ -1,5 +1,8 @@
 # Airbnb Data Exploration
 
+## Read Full Blog Post
+Blog post available at [Medium](https://medium.com/@ben.farrell08/get-the-most-out-of-your-airbnb-in-london-e8bcecf50bea?source=friends_link&sk=0f66e4fdb7819eed37ffb9f7f3c211cc)
+
 ## Dataset
 
 Data was collected from [InsideAirbnb](http://insideairbnb.com/get-the-data.html)
